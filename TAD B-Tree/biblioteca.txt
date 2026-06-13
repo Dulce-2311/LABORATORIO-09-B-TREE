@@ -1,0 +1,9 @@
+4
+9780132350884,Clean Code,Robert Martin,2008
+9780134494166,Clean Architecture,Robert Martin,2017
+9780201633610,Design Patterns,GoF,1994
+9780596009205,Head First Java,Kathy Sierra,2005
+9781491950357,Learning React,Alex Banks,2017
+9780134685991,Effective Java,Joshua Bloch,2018
+9780131103627,The C Programming Language,Kernighan y Ritchie,1988
+9780321356680,Java Concurrency in Practice,Brian Goetz,2006
